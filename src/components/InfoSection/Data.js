@@ -1,0 +1,51 @@
+export const homeObjOne = {
+    id: 'about',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Why Zico FC?',
+    headline: 'Soccer Players of All Ages Who Love The Game and Want to Take it Up to The Next Level',
+    description: 'Soccer Fit is for soccer players of all ages and abilities who want to improve their soccer skills & grow their love for the game. Soccer Fit is the only soccer training company in Colorado that uses the top soccer teaching coaches in the state to teach training programs focused on inspiring the individual player to reach their soccer (and personal) potential',
+    buttonLabel: 'Get Started',
+    imgStart: false,
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: true,
+    primary: true,
+    darkText: false,
+};
+
+export const homeObjTwo = {
+    id: 'discover',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Training Programs Tailored To Your Personal Needs & Goals',
+    headline: 'Soccer Players of All Ages Who Love The Game and Want to Take it Up to The Next Level',
+    description: 'Soccer Fit is for soccer players of all ages and abilities who want to improve their soccer skills & grow their love for the game. Soccer Fit is the only soccer training company in Colorado that uses the top soccer teaching coaches in the state to teach training programs focused on inspiring the individual player to reach their soccer (and personal) potential',
+    buttonLabel: 'Learn More',
+    imgStart: true,
+    img: require('../../images/svg-2.svg'),
+    alt: 'Car',
+    dark: false,
+    primary: false,
+    darkText: true,
+};
+
+// export const homeObjThree = {
+//     id: 'Contact Your Coach',
+//     lightBg: true,
+//     lightText: false,
+//     lightTextDesc: false,
+//     topLine: 'Contact Us',
+//     headline: '',
+//     description: '',
+//     buttonLabel: 'Start Now',
+//     imgStart: false,
+//     img: require('../../images/svg-3.svg'),
+//     alt: 'Car',
+//     dark: false,
+//     primary: false,
+//     darkText: true,
+    
+// };
